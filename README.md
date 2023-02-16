@@ -1,5 +1,5 @@
 # PascalsTriangleLeetcode
-https://leetcode.com/problems/pascals-triangle/submissions/
+https://leetcode.com/problems/pascals-triangle/description/
 
 Runtime
 66 ms
